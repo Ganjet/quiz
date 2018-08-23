@@ -1,0 +1,22 @@
+#train,#trains {
+    position: relative;
+    cursor: pointer;
+    height: 200px;
+  }
+#number {
+  display: none;
+}
+.col-2 {
+  border-collapse: collapse;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+}
+.secondLine {
+  margin-top: 25px;
+}
+.col-2:last-of-type {
+  border-right: 2px solid black;
+}
+.container {
+  text-align: center;
+}
